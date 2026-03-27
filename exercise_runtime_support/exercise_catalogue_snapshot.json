@@ -1,0 +1,79 @@
+[
+  {
+    "construct": "sequence",
+    "display_label": "ex002 Sequence Modify Basics",
+    "exercise_id": 2,
+    "exercise_key": "ex002_sequence_modify_basics",
+    "exercise_type": "modify",
+    "layout": "canonical",
+    "parts": 10,
+    "slug": "ex002_sequence_modify_basics",
+    "title": "Sequence Modify Basics"
+  },
+  {
+    "construct": "sequence",
+    "display_label": "ex003 Sequence Modify Variables",
+    "exercise_id": 3,
+    "exercise_key": "ex003_sequence_modify_variables",
+    "exercise_type": "modify",
+    "layout": "canonical",
+    "parts": 10,
+    "slug": "ex003_sequence_modify_variables",
+    "title": "Sequence Modify Variables"
+  },
+  {
+    "construct": "sequence",
+    "display_label": "ex004 Debug Syntax Errors",
+    "exercise_id": 4,
+    "exercise_key": "ex004_sequence_debug_syntax",
+    "exercise_type": "debug",
+    "layout": "canonical",
+    "parts": 10,
+    "slug": "ex004_sequence_debug_syntax",
+    "title": "Debug Syntax Errors"
+  },
+  {
+    "construct": "sequence",
+    "display_label": "ex005 Debug Logical Errors",
+    "exercise_id": 5,
+    "exercise_key": "ex005_sequence_debug_logic",
+    "exercise_type": "debug",
+    "layout": "canonical",
+    "parts": 10,
+    "slug": "ex005_sequence_debug_logic",
+    "title": "Debug Logical Errors"
+  },
+  {
+    "construct": "sequence",
+    "display_label": "ex006 Casting and Type Conversion",
+    "exercise_id": 6,
+    "exercise_key": "ex006_sequence_modify_casting",
+    "exercise_type": "modify",
+    "layout": "canonical",
+    "parts": 10,
+    "slug": "ex006_sequence_modify_casting",
+    "title": "Casting and Type Conversion"
+  },
+  {
+    "construct": "sequence",
+    "display_label": "ex007 Sequence Debug Casting",
+    "exercise_id": 7,
+    "exercise_key": "ex007_sequence_debug_casting",
+    "exercise_type": "debug",
+    "layout": "canonical",
+    "parts": 10,
+    "slug": "ex007_sequence_debug_casting",
+    "title": "Sequence Debug Casting"
+  },
+  {
+    "construct": "sequence",
+    "display_label": "ex008 Sequence Make Consolidation",
+    "exercise_id": 8,
+    "exercise_key": "ex008_sequence_make_consolidation",
+    "exercise_type": "make",
+    "layout": "canonical",
+    "parts": 5,
+    "slug": "ex008_sequence_make_consolidation",
+    "title": "Sequence Make Consolidation"
+  }
+]
